@@ -1,11 +1,14 @@
 _repo: Through-Russia_2288
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Po Rusi. English
 contributor:
   translator:
     agent_name: Hogarth, C. J.
     gutenberg_agent_id: '835'
     url: http://www.gutenberg.org/2009/agents/835
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: Translation of Po Rusi
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2288#Through-Russia
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
